@@ -45,7 +45,7 @@ const About = () => {
           </p>
 
           <a
-            href="#"//  ***********************************************************************************************************************************************************
+            href="https://github.com/N123itesh/nitesh-resume"//  ***********************************************************************************************************************************************************
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full text-lg font-bold transition duration-300 hover:scale-105"
